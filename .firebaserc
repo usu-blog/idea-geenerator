@@ -1,6 +1,5 @@
 {
   "projects": {
-    "dev": "lifebag-dev",
-    "prod": "lifebag-7b401"
+    "prod": "idea-generator-4451b"
   }
 }
