@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "lifebag-dev",
+    "prod": "lifebag-7b401"
+  }
+}
